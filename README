@@ -1,0 +1,17 @@
+This is the WebRTC implementing demo using Golang.
+
+# WebRTC lib
+https://github.com/pion/webrtc
+
+# Why use WebRTC
+- WebRTC can peer to peer to save the service resource during the video/audio steaming.
+
+# Modules
+- Meeting management 
+	- [ ] Meeting list 
+	- [ ] Create Meeting
+	- [ ] Edit Meeting
+	- [ ] Remove Meeting
+- [ ] User management
+- [ ] WebRTC
+	- [ ] steaming server
